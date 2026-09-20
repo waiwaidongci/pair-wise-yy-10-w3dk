@@ -1,0 +1,12 @@
+{
+  "name": "lacquer-thread-workshop",
+  "version": "1.0.0",
+  "description": "小型漆线雕工坊管理：作品流转、包装清单与签收闭环",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "jsdom": "^29.1.1"
+  }
+}
