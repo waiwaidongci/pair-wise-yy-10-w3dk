@@ -1,0 +1,12 @@
+{
+  "name": "zfl42-lacquer-workshop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "小型漆线雕工坊管理（静态前端应用，含交付包装与签收闭环）",
+  "scripts": {
+    "test": "node test/closed-loop.test.js && node test/ui-smoke.test.js"
+  },
+  "devDependencies": {
+    "jsdom": "^29.1.1"
+  }
+}
